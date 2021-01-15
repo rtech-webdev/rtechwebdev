@@ -537,7 +537,7 @@ footer span:hover{
     width: 100%;
   }
 }
-@media (max-width: 500px){
+@media (max-width: 400px){
   .contact .right form .fields{
     flex-direction: column; 
   }
