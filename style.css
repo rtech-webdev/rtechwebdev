@@ -447,7 +447,7 @@ footer span:hover{
 }
 
 /*Responsive Media Query */
-@media (max-width: 1104x){
+@media (max-width: 1920x){
   .home .max-width{
     margin-left: : 0px;
   }
